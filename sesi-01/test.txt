@@ -1,1 +1,6 @@
+<<<<<<< HEAD
 test upload text ke mas endy
+=======
+test upload ke mas endy
+test upload ke mas endy ... ryan-a
+>>>>>>> 6bd4f045b4c06650219b7147f86b0b72aff2aff4
